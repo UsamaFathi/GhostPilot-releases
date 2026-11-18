@@ -2,6 +2,17 @@
 
 GhostForge is the publisher of GhostPilot. No production release is available yet.
 
+## Freeware distribution
+
+GhostPilot is proprietary, closed-source freeware published by GhostForge. Personal,
+professional, commercial, enterprise, educational, and research use are free of charge.
+There are no subscriptions, paid licenses, paid activation, license keys, or usage fees.
+
+The development source remains private. Redistribution and modification permissions
+require separately approved proprietary licensing terms.
+
+## Releases
+
 Future approved versions will be published on
 [GitHub Releases](https://github.com/UsamaFathi/GhostPilot-releases/releases). Each release
 will identify its version, approved downloads, supported environments, known limitations,
